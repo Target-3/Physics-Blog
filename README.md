@@ -6,6 +6,8 @@ While <em><b>User</b></em> app deals with all user-related stuff such as new use
 <br><br><img src="https://i.imgur.com/IUWEDIU.png">
 <br><br><img src="https://i.imgur.com/t2a016M.png">
 <br><br><img src="https://i.imgur.com/MIwKiLp.png">
+<br><br><img src="https://i.imgur.com/OkIeI5L.png">
+<br><br><img src="https://i.imgur.com/dCKAiwm.png">
 <br><br><img src="https://i.imgur.com/6FeAfWK.png">
 <br><br><img src="https://i.imgur.com/2K3o8ms.png">
 <br><br><img src="https://i.imgur.com/Gj2bW4f.png">
