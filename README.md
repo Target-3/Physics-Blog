@@ -1,5 +1,5 @@
 # Physics Blog
-<a href="https://physicsblog.herokuapp.com/">Physics Blog</a>
+<a href="https://physicsblog.herokuapp.com/">Physics Blog</a><b><-Website Link</b>
 <br>
 This is a website for physics lover bloggers.
 I have used <b>Django</b> to create this website. I have created two apps on this website namely <em>Blogs</em> and <em>User</em>.
